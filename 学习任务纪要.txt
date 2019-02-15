@@ -1,0 +1,4 @@
+近期待处理学习任务：
+1、关于接口测试，webapi的学习  https://time.geekbang.org/column/article/10572
+2、关于从官方文档学习开源工具的学习习惯（如自动化测试）
+3、测试工程师需要学习的非测试知识：https://time.geekbang.org/column/article/11453
